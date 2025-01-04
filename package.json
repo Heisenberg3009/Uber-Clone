@@ -30,42 +30,30 @@
     "expo-symbols": "~0.2.0",
     "expo-system-ui": "~4.0.6",
     "expo-web-browser": "~14.0.1",
-<<<<<<< HEAD
     "nativewind": "^4.1.23",
-=======
->>>>>>> ee70d2de7a34dbe4a814808f9fa808b95656a168
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.5",
     "react-native-gesture-handler": "~2.20.2",
     "react-native-reanimated": "~3.16.1",
-<<<<<<< HEAD
     "react-native-safe-area-context": "^4.12.0",
     "react-native-screens": "~4.4.0",
     "react-native-web": "^0.19.13",
-=======
     "react-native-safe-area-context": "4.12.0",
     "react-native-screens": "~4.4.0",
     "react-native-web": "~0.19.13",
->>>>>>> ee70d2de7a34dbe4a814808f9fa808b95656a168
     "react-native-webview": "13.12.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/jest": "^29.5.12",
     "@types/react": "~18.3.12",
-<<<<<<< HEAD
     "@types/react-native": "^0.72.8",
-=======
->>>>>>> ee70d2de7a34dbe4a814808f9fa808b95656a168
     "@types/react-test-renderer": "^18.3.0",
     "jest": "^29.2.1",
     "jest-expo": "~52.0.2",
     "react-test-renderer": "18.3.1",
-<<<<<<< HEAD
     "tailwindcss": "^3.3.2",
-=======
->>>>>>> ee70d2de7a34dbe4a814808f9fa808b95656a168
     "typescript": "^5.3.3"
   },
   "private": true
