@@ -1,8 +1,13 @@
 import { router } from "expo-router";
-import { Text, TouchableOpacity } from "react-native";
+import { Text, TouchableOpacity, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
+import Swiper from "react-native-swiper";
+import { useRef } from "react";
 
 const onBoarding = () => {
+
+  const swiperRef = useRef<Swiper>(null);
+
   return (
     <SafeAreaView>
       <TouchableOpacity
@@ -13,6 +18,12 @@ const onBoarding = () => {
       >
         <Text className="text-black text-md font-JakartaBold">Skip!</Text>
       </TouchableOpacity>
+      <Swiper ref={swiperRef}
+        loop={false}
+        dot = {<View className="w-[32px] h-[4px] mx-1 bg-[#E2E8F0]"/>}
+      >
+
+      </Swiper>
     </SafeAreaView>
   );
 };
