@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6163330a-c05b-40c2-8a31-087650b4e57b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(auth)/welcome.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/welcome.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
       <workItem from="1736244773094" duration="368000" />
       <workItem from="1736245151984" duration="70000" />
       <workItem from="1736245230271" duration="99000" />
-      <workItem from="1736245337285" duration="1923000" />
+      <workItem from="1736245337285" duration="2280000" />
     </task>
     <servers />
   </component>
