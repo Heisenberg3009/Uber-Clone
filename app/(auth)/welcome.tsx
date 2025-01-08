@@ -37,7 +37,7 @@ const onBoarding = () => {
               </View>
           ))}
       </Swiper>
-      <CustomButton title="Next" />
+      <CustomButton title="Next" className = "w-11/12 mt-10" />
     </SafeAreaView>
   );
 };
